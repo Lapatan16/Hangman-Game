@@ -1,0 +1,39 @@
+button
+{
+    padding: 10px;
+    background-color: hsla(177, 65%, 62%);
+    color: white;
+    border: 2px solid hsla(177, 65%, 82%);
+    margin: 1.5px;
+}
+
+.interact-button
+{
+    margin-top: 5px;
+}
+
+#guessing-div
+{
+    margin-top: 10px;
+}
+
+button:disabled
+{
+    opacity: 0.5;
+}
+
+#hangMan
+{
+    margin-top: 10px;
+}
+
+img
+{
+    width: 350px;
+}
+
+#word
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
